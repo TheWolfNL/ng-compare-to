@@ -1,0 +1,24 @@
+{
+  "name": "ng-compare-to",
+  "version": "0.0.0",
+  "authors": [
+    "K. Scott Allen"
+  ],
+  "description": "A directive to compare passwords in a form by K. Scott Allen",
+  "main": "ng-compare-to.js",
+  "keywords": [
+    "Angular",
+    "Compare",
+    "Form",
+    "Validation"
+  ],
+  "license": "MIT",
+  "homepage": "http://odetocode.com/blogs/scott/archive/2014/10/13/confirm-password-validation-in-angularjs.aspx",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
